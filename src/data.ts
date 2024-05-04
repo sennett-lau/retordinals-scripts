@@ -71,7 +71,7 @@ export const variations = [
     facial: 'black beard',
     head: 'top hat',
     mouth: 'lol',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -111,7 +111,7 @@ export const variations = [
     facial: 'black beard',
     head: 'bell',
     mouth: 'gold grill',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -136,7 +136,7 @@ export const variations = [
     eyes: 'red lens',
     head: 'black side',
     mouth: 'vampire',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -278,7 +278,7 @@ export const variations = [
     facial: 'chin beard orange',
     head: 'coffee',
     mouth: 'tiny black lips',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -326,7 +326,7 @@ export const variations = [
     facial: 'black beard',
     head: 'knitted cap',
     mouth: 'yelling',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -365,7 +365,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'vampire',
     mouth: 'flat',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -572,7 +572,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'devil horn',
     mouth: 'bored af',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -789,7 +789,7 @@ export const variations = [
     facial: 'white beard',
     head: 'none',
     mouth: 'pipe',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -902,7 +902,7 @@ export const variations = [
     eyes: 'nerd',
     'gurl hair': 'pink tail',
     mouth: 'pipe',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -991,7 +991,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -1005,7 +1005,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'zigzag',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -1019,7 +1019,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -1046,7 +1046,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -1085,7 +1085,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'doodles hair',
     mouth: 'vampire',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -1398,7 +1398,7 @@ export const variations = [
     facial: 'black beard',
     head: 'long',
     mouth: 'smile',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -1830,7 +1830,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'vampire',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -1909,7 +1909,7 @@ export const variations = [
     eyes: 'rec',
     'gurl hair': 'pigtails black',
     mouth: 'bucky',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -2024,7 +2024,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wild black',
     mouth: 'pepe swag',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -2102,7 +2102,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -2321,7 +2321,7 @@ export const variations = [
     eyes: 'zorro',
     'gurl hair': 'pigtails pink',
     mouth: 'tongue',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -2347,7 +2347,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'egg head',
     mouth: 'yelling',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -2386,7 +2386,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'knitted cap',
     mouth: 'angry',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -2422,7 +2422,7 @@ export const variations = [
     eyes: 'zorro',
     'gurl hair': 'pigtails black',
     mouth: 'yelling',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -2435,7 +2435,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'blue ocean',
     mouth: 'saw',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -2462,7 +2462,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -2474,7 +2474,7 @@ export const variations = [
     eyes: 'black shades',
     head: 'orange side',
     mouth: 'lol',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -3072,7 +3072,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'viking helmet',
     mouth: 'wired',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -3764,7 +3764,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -3965,7 +3965,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wild red',
     mouth: 'cigarette',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -3991,7 +3991,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'mummy',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -4018,7 +4018,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -4044,7 +4044,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -4095,7 +4095,7 @@ export const variations = [
     facial: 'white beard',
     head: 'rice hat',
     mouth: 'zigzag',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -4133,7 +4133,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'jim',
     mouth: 'flat',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -4184,7 +4184,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'gold grill',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -4282,7 +4282,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'angry',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -4296,7 +4296,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -4345,7 +4345,7 @@ export const variations = [
     facial: 'black beard',
     head: 'ramboo',
     mouth: 'zigzag',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -4358,7 +4358,7 @@ export const variations = [
     facial: 'black beard',
     head: 'red _mound',
     mouth: 'bored af',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -4407,7 +4407,7 @@ export const variations = [
     facial: 'white beard',
     head: 'mushroom',
     mouth: 'drool',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -4560,7 +4560,7 @@ export const variations = [
     facial: 'white beard',
     head: 'knitted cap',
     mouth: 'pipe',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -4685,7 +4685,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wire',
     mouth: 'tongue',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -4778,7 +4778,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -4987,7 +4987,7 @@ export const variations = [
     facial: 'white beard',
     head: 'mohawk red',
     mouth: 'bored af',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -5274,7 +5274,7 @@ export const variations = [
     eyes: 'black shades',
     'gurl hair': 'pink tail',
     mouth: 'cigarette',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -5404,7 +5404,7 @@ export const variations = [
     eyes: 'rage',
     'gurl hair': 'queue',
     mouth: 'tiny black lips',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -5468,7 +5468,7 @@ export const variations = [
     facial: 'black beard',
     head: 'vampire',
     mouth: 'wired',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -5752,7 +5752,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'mummy',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -5817,7 +5817,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wizard',
     mouth: 'mega drool',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -6452,7 +6452,7 @@ export const variations = [
     facial: 'white beard',
     head: 'fast food',
     mouth: 'pipe',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -6675,7 +6675,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -6741,7 +6741,7 @@ export const variations = [
     facial: 'white beard',
     head: 'jim',
     mouth: 'lol',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -6843,7 +6843,7 @@ export const variations = [
     facial: 'black beard',
     head: 'police',
     mouth: 'drool',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -6856,7 +6856,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zigzag',
     mouth: 'smile',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -6870,7 +6870,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'wired',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -6972,7 +6972,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -7010,7 +7010,7 @@ export const variations = [
     eyes: 'peaceful',
     'gurl hair': 'pigtails black',
     mouth: 'pepe swag',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -7034,7 +7034,7 @@ export const variations = [
     eyes: 'rage',
     'gurl hair': 'queue',
     mouth: 'teeth',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -7074,7 +7074,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wire',
     mouth: 'lol',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -7307,7 +7307,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bored af',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -7564,7 +7564,7 @@ export const variations = [
     facial: 'white beard',
     head: 'long',
     mouth: 'pipe',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -7651,7 +7651,7 @@ export const variations = [
     facial: 'black beard',
     head: 'builder',
     mouth: 'mega drool',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -7665,7 +7665,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'yelling',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -7703,7 +7703,7 @@ export const variations = [
     facial: 'black beard',
     head: 'black side',
     mouth: 'angry',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -7779,7 +7779,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -8100,7 +8100,7 @@ export const variations = [
     facial: 'white beard',
     head: 'head band',
     mouth: 'zigzag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -8189,7 +8189,7 @@ export const variations = [
     eyes: 'peaceful',
     'gurl hair': 'karen',
     mouth: 'flat',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -8227,7 +8227,7 @@ export const variations = [
     eyes: 'm frames',
     'gurl hair': 'pink tail',
     mouth: 'drool',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -8391,7 +8391,7 @@ export const variations = [
     eyes: 'black shades',
     'gurl hair': 'none',
     mouth: 'tiny black lips',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -8664,7 +8664,7 @@ export const variations = [
     facial: 'white beard',
     head: 'doodles hair',
     mouth: 'tiny black lips',
-    phrases: 'leonidas \ris rune-\rtorded!',
+    phrases: 'leonidas is rune torded!',
     texture: 'distord',
   },
   {
@@ -9219,7 +9219,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wild red',
     mouth: 'rock teeth',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -9322,7 +9322,7 @@ export const variations = [
     facial: 'white beard',
     head: 'fast food',
     mouth: 'yelling',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -9453,7 +9453,7 @@ export const variations = [
     facial: 'black beard',
     head: 'head band',
     mouth: 'yelling',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -9624,7 +9624,7 @@ export const variations = [
     facial: 'black beard',
     head: 'mushroom',
     mouth: 'teeth',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -9832,7 +9832,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'pigtails black',
     mouth: 'zigzag',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -9982,7 +9982,7 @@ export const variations = [
     eyes: 'night vision',
     'gurl hair': 'pink tail',
     mouth: 'vampire',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -10288,7 +10288,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zuck hair',
     mouth: 'smile',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -10379,7 +10379,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk red',
     mouth: 'tongue',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -10406,7 +10406,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -10571,7 +10571,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wizard',
     mouth: 'tongue',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -10647,7 +10647,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -10825,7 +10825,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'zuck hair',
     mouth: 'ultra drool',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -11192,7 +11192,7 @@ export const variations = [
     eyes: 'x',
     head: 'none',
     mouth: 'tongue',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     special: 'poop',
     texture: 'distord',
   },
@@ -11320,7 +11320,7 @@ export const variations = [
     facial: 'white beard',
     head: 'headphone white',
     mouth: 'angry',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -11333,7 +11333,7 @@ export const variations = [
     facial: 'chin beard black',
     head: 'arrow',
     mouth: 'bucky',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -11394,7 +11394,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'none',
     mouth: 'yelling',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -11448,7 +11448,7 @@ export const variations = [
     helmet: 'none',
     mask: 'slerf',
     mouth: 'smile',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -11563,7 +11563,7 @@ export const variations = [
     facial: 'black beard',
     head: 'saiyan',
     mouth: 'gold grill',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -11614,7 +11614,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk black',
     mouth: 'bored af',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -11639,7 +11639,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'none',
     mouth: 'ultra drool',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -11689,7 +11689,7 @@ export const variations = [
     facial: 'chin beard orange',
     head: 'none',
     mouth: 'yelling',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -11716,7 +11716,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -11817,7 +11817,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'head band',
     mouth: 'drool',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -11881,7 +11881,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'none',
     mouth: 'flat',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -12087,7 +12087,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -12190,7 +12190,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'gold grill',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -12321,7 +12321,7 @@ export const variations = [
     facial: 'black beard',
     head: 'police',
     mouth: 'mega drool',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -12334,7 +12334,7 @@ export const variations = [
     facial: 'black beard',
     head: 'purple cap',
     mouth: 'cigarette',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -12521,7 +12521,7 @@ export const variations = [
     helmet: 'none',
     mask: 'wrestlord',
     mouth: 'tongue',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -12672,7 +12672,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'short cut',
     mouth: 'flat',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -12748,7 +12748,7 @@ export const variations = [
     eyes: 'shitcoin',
     'gurl hair': 'karen',
     mouth: 'rock teeth',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -13038,7 +13038,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'teeth',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -13139,7 +13139,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -13177,7 +13177,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pepe swag',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -13620,7 +13620,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -13647,7 +13647,7 @@ export const variations = [
     facial: 'white beard',
     head: 'builder',
     mouth: 'teeth',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -13673,7 +13673,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'orange side',
     mouth: 'rock teeth',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -13776,7 +13776,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'cowboy',
     mouth: 'lol',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -13894,7 +13894,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'blue bandana',
     mouth: 'flat',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -14073,7 +14073,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -14393,7 +14393,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'arabic headband',
     mouth: 'flat',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -14496,7 +14496,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'zigzag',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -14689,7 +14689,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'skull',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     special: 'skeleton',
     texture: 'distord',
   },
@@ -14716,7 +14716,7 @@ export const variations = [
     facial: 'black beard',
     head: 'knitted cap',
     mouth: 'smile',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -14742,7 +14742,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -14870,7 +14870,7 @@ export const variations = [
     facial: 'black beard',
     head: 'headphone white',
     mouth: 'rock teeth',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -15035,7 +15035,7 @@ export const variations = [
     facial: 'white beard',
     head: 'builder',
     mouth: 'tongue',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -15085,7 +15085,7 @@ export const variations = [
     eyes: 'night vision',
     head: 'mohawk red',
     mouth: 'skull',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     special: 'skeleton',
     texture: 'distord',
   },
@@ -15352,7 +15352,7 @@ export const variations = [
     facial: 'white beard',
     head: 'pilot',
     mouth: 'zigzag',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -15504,7 +15504,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'cex',
     mouth: 'flat',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -15620,7 +15620,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zigzag',
     mouth: 'bored af',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -15795,7 +15795,7 @@ export const variations = [
     eyes: '3d glasses',
     'gurl hair': 'pigtails black',
     mouth: 'teeth',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -15808,7 +15808,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'saiyan',
     mouth: 'flat',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -15901,7 +15901,7 @@ export const variations = [
     facial: 'white beard',
     head: 'beanie',
     mouth: 'yelling',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -16066,7 +16066,7 @@ export const variations = [
     facial: 'black beard',
     head: 'fez',
     mouth: 'tiny black lips',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -16104,7 +16104,7 @@ export const variations = [
     facial: 'black beard',
     head: 'doodles hair',
     mouth: 'gold grill',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -16182,7 +16182,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -16195,7 +16195,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'beanie',
     mouth: 'pepe swag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -16231,7 +16231,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'police',
     mouth: 'tongue',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -16321,7 +16321,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'devil horn',
     mouth: 'yelling',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -16386,7 +16386,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -16399,7 +16399,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wizard',
     mouth: 'mega drool',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -16489,7 +16489,7 @@ export const variations = [
     eyes: 'zorro',
     'gurl hair': 'pigtails pink',
     mouth: 'cigarette',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -16542,7 +16542,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -16635,7 +16635,7 @@ export const variations = [
     facial: 'white beard',
     head: 'arrow',
     mouth: 'bored af',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -16724,7 +16724,7 @@ export const variations = [
     facial: 'chin beard black',
     head: 'mohawk red',
     mouth: 'cigarette',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -16762,7 +16762,7 @@ export const variations = [
     facial: 'black beard',
     head: 'short cut',
     mouth: 'gold grill',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -16787,7 +16787,7 @@ export const variations = [
     facial: 'black beard',
     head: 'purple cap',
     mouth: 'drool',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -17190,7 +17190,7 @@ export const variations = [
     eyes: 'vr',
     'gurl hair': 'queue',
     mouth: 'drool',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -17230,7 +17230,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -17242,7 +17242,7 @@ export const variations = [
     eyes: 'shitcoin',
     'gurl hair': 'pink tail',
     mouth: 'angry',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -17284,7 +17284,7 @@ export const variations = [
     helmet: 'apple',
     mask: 'none',
     mouth: 'zigzag',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -17334,7 +17334,7 @@ export const variations = [
     eyes: 'rec',
     'gurl hair': 'pigtails pink',
     mouth: 'bucky',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -17810,7 +17810,7 @@ export const variations = [
     eyes: 'red lens',
     'gurl hair': 'karen',
     mouth: 'cigarette',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -18077,7 +18077,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'cex',
     mouth: 'flat',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -18208,7 +18208,7 @@ export const variations = [
     facial: 'black beard',
     head: 'doodles hair',
     mouth: 'yelling',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -18330,7 +18330,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -18433,7 +18433,7 @@ export const variations = [
     facial: 'white beard',
     head: 'bell',
     mouth: 'bucky',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -18521,7 +18521,7 @@ export const variations = [
     facial: 'white beard',
     head: 'head band',
     mouth: 'pepe swag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -18598,7 +18598,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'gold grill',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -18698,7 +18698,7 @@ export const variations = [
     facial: 'white beard',
     head: 'purple hair',
     mouth: 'cigarette',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -18838,7 +18838,7 @@ export const variations = [
     eyes: 'cyclops',
     'gurl hair': 'none',
     mouth: 'mummy',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -19052,7 +19052,7 @@ export const variations = [
     facial: 'black beard',
     head: 'devil horn',
     mouth: 'mega drool',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -19140,7 +19140,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'fedora',
     mouth: 'pipe',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -19180,7 +19180,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'tiny black lips',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -19218,7 +19218,7 @@ export const variations = [
     facial: 'white beard',
     head: 'knitted cap',
     mouth: 'bored af',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -19432,7 +19432,7 @@ export const variations = [
     eyes: 'tint',
     'gurl hair': 'pigtails black',
     mouth: 'bored af',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -19688,7 +19688,7 @@ export const variations = [
     facial: 'black beard',
     head: 'ramboo',
     mouth: 'bored af',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -19766,7 +19766,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zuck hair',
     mouth: 'tongue',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -19779,7 +19779,7 @@ export const variations = [
     facial: 'white beard',
     head: 'rice hat',
     mouth: 'tongue',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -19856,7 +19856,7 @@ export const variations = [
     facial: 'white beard',
     head: 'coffee',
     mouth: 'cigarette',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -19895,7 +19895,7 @@ export const variations = [
     eyes: 'shy',
     'gurl hair': 'none',
     mouth: 'flat',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -20011,7 +20011,7 @@ export const variations = [
     facial: 'black beard',
     head: 'ramboo',
     mouth: 'pipe',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -20150,7 +20150,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'rock teeth',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -20200,7 +20200,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'top hat',
     mouth: 'tiny black lips',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -20301,7 +20301,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'blue ocean',
     mouth: 'flat',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -20785,7 +20785,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'pigtails pink',
     mouth: 'rock teeth',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -20811,7 +20811,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'long',
     mouth: 'mega drool',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -20849,7 +20849,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wire',
     mouth: 'tiny black lips',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -20886,7 +20886,7 @@ export const variations = [
     eyes: 'love',
     'gurl hair': 'none',
     mouth: 'zigzag',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -20899,7 +20899,7 @@ export const variations = [
     facial: 'black beard',
     head: 'knitted cap',
     mouth: 'smile',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -20989,7 +20989,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'zigzag',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -21149,7 +21149,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -21388,7 +21388,7 @@ export const variations = [
     facial: 'white beard',
     head: 'fedora',
     mouth: 'tiny black lips',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -21438,7 +21438,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -21613,7 +21613,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'none',
     mouth: 'flat',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -21715,7 +21715,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'purple hair',
     mouth: 'drool',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -21741,7 +21741,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'head band',
     mouth: 'bored af',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -21779,7 +21779,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'cex',
     mouth: 'flat',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -21845,7 +21845,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -22026,7 +22026,7 @@ export const variations = [
     facial: 'white beard',
     head: 'police',
     mouth: 'pipe',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -22437,7 +22437,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -22516,7 +22516,7 @@ export const variations = [
     eyes: 'tint',
     'gurl hair': 'none',
     mouth: 'yelling',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -22707,7 +22707,7 @@ export const variations = [
     eyes: 'rage',
     'gurl hair': 'pink tail',
     mouth: 'zigzag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -22793,7 +22793,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'head band',
     mouth: 'yelling',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -22855,7 +22855,7 @@ export const variations = [
     facial: 'white beard',
     head: 'blue bandana',
     mouth: 'flat',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -23059,7 +23059,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -23401,7 +23401,7 @@ export const variations = [
     facial: 'black beard',
     head: 'none',
     mouth: 'rock teeth',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -23438,7 +23438,7 @@ export const variations = [
     eyes: 'bored af',
     'gurl hair': 'pigtails black',
     mouth: 'flat',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -23452,7 +23452,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pepe swag',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -23480,7 +23480,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'smile',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -23494,7 +23494,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'angry',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -23507,7 +23507,7 @@ export const variations = [
     facial: 'white beard',
     head: 'top hat',
     mouth: 'bored af',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -23672,7 +23672,7 @@ export const variations = [
     eyes: 'm frames',
     'gurl hair': 'pink tail',
     mouth: 'mega drool',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -23723,7 +23723,7 @@ export const variations = [
     eyes: 'tint',
     'gurl hair': 'pigtails pink',
     mouth: 'saw',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -23777,7 +23777,7 @@ export const variations = [
     facial: 'black beard',
     head: 'mohawk black',
     mouth: 'drool',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -23922,7 +23922,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'yelling',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -24015,7 +24015,7 @@ export const variations = [
     facial: 'white beard',
     head: 'rice hat',
     mouth: 'pipe',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -24040,7 +24040,7 @@ export const variations = [
     facial: 'black beard',
     head: 'coffee',
     mouth: 'vampire',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -24091,7 +24091,7 @@ export const variations = [
     facial: 'white beard',
     head: 'rice hat',
     mouth: 'pipe',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -24155,7 +24155,7 @@ export const variations = [
     facial: 'white beard',
     head: 'pilot',
     mouth: 'tongue',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -24167,7 +24167,7 @@ export const variations = [
     eyes: 'green laser',
     'gurl hair': 'karen',
     mouth: 'lol',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -24274,7 +24274,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pipe',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -24516,7 +24516,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -24585,7 +24585,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -24735,7 +24735,7 @@ export const variations = [
     eyes: 'noun',
     'gurl hair': 'karen',
     mouth: 'teeth',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -24812,7 +24812,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'mohawk red',
     mouth: 'flat',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -24978,7 +24978,7 @@ export const variations = [
     facial: 'white beard',
     head: 'mohawk black',
     mouth: 'drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -25053,7 +25053,7 @@ export const variations = [
     eyes: 'red lens',
     'gurl hair': 'pigtails pink',
     mouth: 'tiny black lips',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -25156,7 +25156,7 @@ export const variations = [
     facial: 'white beard',
     head: 'purple hair',
     mouth: 'lol',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -25169,7 +25169,7 @@ export const variations = [
     facial: 'black beard',
     head: 'wire',
     mouth: 'pipe',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -25183,7 +25183,7 @@ export const variations = [
     helmet: 'frog',
     mask: 'none',
     mouth: 'pepe swag',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -25308,7 +25308,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -25345,7 +25345,7 @@ export const variations = [
     facial: 'black beard',
     head: 'red _mound',
     mouth: 'flat',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -25625,7 +25625,7 @@ export const variations = [
     facial: 'white beard',
     head: 'none',
     mouth: 'saw',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -25676,7 +25676,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'purple cap',
     mouth: 'flat',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -25689,7 +25689,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'wizard',
     mouth: 'flat',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -25830,7 +25830,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'zigzag',
     mouth: 'saw',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -26076,7 +26076,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'queue',
     mouth: 'zigzag',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -26089,7 +26089,7 @@ export const variations = [
     facial: 'white beard',
     head: 'purple cap',
     mouth: 'yelling',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -26195,7 +26195,7 @@ export const variations = [
     facial: 'white beard',
     head: 'viking helmet',
     mouth: 'mega drool',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -26803,7 +26803,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -26839,7 +26839,7 @@ export const variations = [
     facial: 'black beard',
     head: 'doodles hair',
     mouth: 'tongue',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -26852,7 +26852,7 @@ export const variations = [
     facial: 'white beard',
     head: 'orange side',
     mouth: 'saw',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -27038,7 +27038,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'zigzag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -27104,7 +27104,7 @@ export const variations = [
     facial: 'white beard',
     head: 'purple hair',
     mouth: 'ultra drool',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -27235,7 +27235,7 @@ export const variations = [
     facial: 'white beard',
     head: 'knitted cap',
     mouth: 'gold grill',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -27353,7 +27353,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'mega drool',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -27392,7 +27392,7 @@ export const variations = [
     facial: 'black beard',
     head: 'wild red',
     mouth: 'zigzag',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -27428,7 +27428,7 @@ export const variations = [
     eyes: 'bored af',
     head: 'orange side',
     mouth: 'yelling',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -27477,7 +27477,7 @@ export const variations = [
     facial: 'black beard',
     head: 'mohawk red',
     mouth: 'rock teeth',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -27527,7 +27527,7 @@ export const variations = [
     helmet: 'frog',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -27605,7 +27605,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk red',
     mouth: 'teeth',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -27645,7 +27645,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -27658,7 +27658,7 @@ export const variations = [
     facial: 'white beard',
     head: 'mohawk red',
     mouth: 'wired',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -27736,7 +27736,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -27965,7 +27965,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'black side',
     mouth: 'tongue',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -27991,7 +27991,7 @@ export const variations = [
     facial: 'chin beard orange',
     head: 'wire',
     mouth: 'teeth',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -28016,7 +28016,7 @@ export const variations = [
     facial: 'black beard',
     head: 'fedora',
     mouth: 'cigarette',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -28209,7 +28209,7 @@ export const variations = [
     facial: 'white beard',
     head: 'rice hat',
     mouth: 'drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -28246,7 +28246,7 @@ export const variations = [
     eyes: 'x',
     'gurl hair': 'pink tail',
     mouth: 'drool',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -28325,7 +28325,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'zuck hair',
     mouth: 'angry',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -28388,7 +28388,7 @@ export const variations = [
     eyes: 'shitcoin',
     'gurl hair': 'pigtails pink',
     mouth: 'angry',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -28401,7 +28401,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'cowboy',
     mouth: 'lol',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -28493,7 +28493,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'rock teeth',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -28596,7 +28596,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'yelling',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -28697,7 +28697,7 @@ export const variations = [
     eyes: 'shy',
     'gurl hair': 'karen',
     mouth: 'angry',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -28900,7 +28900,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -29082,7 +29082,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'wizard',
     mouth: 'flat',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -29383,7 +29383,7 @@ export const variations = [
     eyes: 'zombie',
     'gurl hair': 'queue',
     mouth: 'vampire',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -29495,7 +29495,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zuck hair',
     mouth: 'zigzag',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -29666,7 +29666,7 @@ export const variations = [
     facial: 'white beard',
     head: 'purple cap',
     mouth: 'zigzag',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -29794,7 +29794,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -29870,7 +29870,7 @@ export const variations = [
     eyes: 'night vision',
     'gurl hair': 'queue',
     mouth: 'tiny black lips',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -29922,7 +29922,7 @@ export const variations = [
     facial: 'black beard',
     head: 'zigzag',
     mouth: 'angry',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -29962,7 +29962,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tongue',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -30060,7 +30060,7 @@ export const variations = [
     facial: 'black beard',
     head: 'wild red',
     mouth: 'drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -30087,7 +30087,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -30099,7 +30099,7 @@ export const variations = [
     eyes: 'rage',
     head: 'black side',
     mouth: 'angry',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -30343,7 +30343,7 @@ export const variations = [
     helmet: 'bear',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -30442,7 +30442,7 @@ export const variations = [
     eyes: 'shy',
     'gurl hair': 'pigtails black',
     mouth: 'flat',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -30597,7 +30597,7 @@ export const variations = [
     facial: 'black beard',
     head: 'jim',
     mouth: 'angry',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -30736,7 +30736,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'police',
     mouth: 'drool',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -30828,7 +30828,7 @@ export const variations = [
     facial: 'white beard',
     head: 'police',
     mouth: 'drool',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -30867,7 +30867,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'fez',
     mouth: 'saw',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -30918,7 +30918,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'purple cap',
     mouth: 'smile',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -30998,7 +30998,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -31012,7 +31012,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -31078,7 +31078,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'mohawk black',
     mouth: 'flat',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -31091,7 +31091,7 @@ export const variations = [
     facial: 'black beard',
     head: 'fast food',
     mouth: 'drool',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -31155,7 +31155,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'zigzag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -31230,7 +31230,7 @@ export const variations = [
     facial: 'black beard',
     head: 'police',
     mouth: 'flat',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -31270,7 +31270,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'vampire',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -31284,7 +31284,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'teeth',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -31414,7 +31414,7 @@ export const variations = [
     facial: 'black beard',
     head: 'arabic headband',
     mouth: 'pepe swag',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -31477,7 +31477,7 @@ export const variations = [
     facial: 'black beard',
     head: 'fedora',
     mouth: 'smile',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -31502,7 +31502,7 @@ export const variations = [
     facial: 'black beard',
     head: 'devil horn',
     mouth: 'yelling',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -31626,7 +31626,7 @@ export const variations = [
     eyes: 'wide open',
     'gurl hair': 'pigtails pink',
     mouth: 'zigzag',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -31667,7 +31667,7 @@ export const variations = [
     facial: 'black beard',
     head: 'arabic headband',
     mouth: 'pipe',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -31705,7 +31705,7 @@ export const variations = [
     facial: 'black beard',
     head: 'wild red',
     mouth: 'saw',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -31718,7 +31718,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'jim',
     mouth: 'wired',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -31861,7 +31861,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pepe swag',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -31930,7 +31930,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -31943,7 +31943,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'builder',
     mouth: 'drool',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -32083,7 +32083,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tongue',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -32512,7 +32512,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pipe',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -32574,7 +32574,7 @@ export const variations = [
     eyes: 'eye patch',
     'gurl hair': 'pigtails black',
     mouth: 'zigzag',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -32714,7 +32714,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk black',
     mouth: 'cigarette',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -32778,7 +32778,7 @@ export const variations = [
     facial: 'white beard',
     head: 'police',
     mouth: 'tongue',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -32997,7 +32997,7 @@ export const variations = [
     facial: 'black beard',
     head: 'mushroom',
     mouth: 'drool',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -33022,7 +33022,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'bandage',
     mouth: 'tiny black lips',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -33120,7 +33120,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'rock teeth',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -33383,7 +33383,7 @@ export const variations = [
     helmet: 'astro',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -33420,7 +33420,7 @@ export const variations = [
     facial: 'white beard',
     head: 'mohawk black',
     mouth: 'smile',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -33679,7 +33679,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wild red',
     mouth: 'lol',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -33884,7 +33884,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'zigzag',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -33910,7 +33910,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'coffee',
     mouth: 'tongue',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -33936,7 +33936,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'head band',
     mouth: 'flat',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -33963,7 +33963,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'tongue',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -33976,7 +33976,7 @@ export const variations = [
     facial: 'white beard',
     head: 'purple cap',
     mouth: 'tongue',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -34372,7 +34372,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bored af',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -34514,7 +34514,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'fast food',
     mouth: 'mega drool',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -34961,7 +34961,7 @@ export const variations = [
     facial: 'white beard',
     head: 'red _mound',
     mouth: 'tongue',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -35152,7 +35152,7 @@ export const variations = [
     eyes: 'zombie',
     'gurl hair': 'karen',
     mouth: 'vampire',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -35267,7 +35267,7 @@ export const variations = [
     helmet: 'apple',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -35415,7 +35415,7 @@ export const variations = [
     facial: 'black beard',
     head: 'jim',
     mouth: 'smile',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -35597,7 +35597,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -35779,7 +35779,7 @@ export const variations = [
     helmet: 'bear',
     mask: 'none',
     mouth: 'bored af',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -36070,7 +36070,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'teeth',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -36304,7 +36304,7 @@ export const variations = [
     eyes: 'eye patch',
     'gurl hair': 'queue',
     mouth: 'rock teeth',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -36358,7 +36358,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'mummy',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -36562,7 +36562,7 @@ export const variations = [
     facial: 'white beard',
     head: 'none',
     mouth: 'cigarette',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -36589,7 +36589,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -36681,7 +36681,7 @@ export const variations = [
     facial: 'black beard',
     head: 'blue bandana',
     mouth: 'bored af',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -36708,7 +36708,7 @@ export const variations = [
     facial: 'white beard',
     head: 'fedora',
     mouth: 'saw',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -36798,7 +36798,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'headphone white',
     mouth: 'saw',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -37482,7 +37482,7 @@ export const variations = [
     facial: 'black beard',
     head: 'purple hair',
     mouth: 'bucky',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -37495,7 +37495,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zigzag',
     mouth: 'cigarette',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -38083,7 +38083,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'vampire',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -38146,7 +38146,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'head band',
     mouth: 'flat',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -38239,7 +38239,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -38366,7 +38366,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -38432,7 +38432,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -38598,7 +38598,7 @@ export const variations = [
     facial: 'white beard',
     head: 'vampire',
     mouth: 'drool',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -38727,7 +38727,7 @@ export const variations = [
     facial: 'white beard',
     head: 'vegapunk',
     mouth: 'smile',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -39138,7 +39138,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -39266,7 +39266,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'mohawk black',
     mouth: 'flat',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -39280,7 +39280,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tongue',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -39374,7 +39374,7 @@ export const variations = [
     helmet: 'bear',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -39695,7 +39695,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'purple hair',
     mouth: 'bucky',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -39761,7 +39761,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'egg head',
     mouth: 'tiny black lips',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -39775,7 +39775,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'vampire',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -40271,7 +40271,7 @@ export const variations = [
     facial: 'black beard',
     head: 'cowboy',
     mouth: 'flat',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -40399,7 +40399,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wizard',
     mouth: 'pipe',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -40513,7 +40513,7 @@ export const variations = [
     facial: 'white beard',
     head: 'orange side',
     mouth: 'flat',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -40539,7 +40539,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'head band',
     mouth: 'flat',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -40723,7 +40723,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -40811,7 +40811,7 @@ export const variations = [
     eyes: 'bored af',
     'gurl hair': 'pink tail',
     mouth: 'rock teeth',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -40950,7 +40950,7 @@ export const variations = [
     eyes: 'night vision',
     head: 'orange side',
     mouth: 'flat',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -41027,7 +41027,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'yelling',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -41280,7 +41280,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'wired',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -41329,7 +41329,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wire',
     mouth: 'smile',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -41473,7 +41473,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tongue',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -41498,7 +41498,7 @@ export const variations = [
     facial: 'white beard',
     head: 'builder',
     mouth: 'tongue',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -41524,7 +41524,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pipe',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -41550,7 +41550,7 @@ export const variations = [
     eyes: 'btc',
     'gurl hair': 'pigtails black',
     mouth: 'saw',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -41702,7 +41702,7 @@ export const variations = [
     facial: 'white beard',
     head: 'short cut',
     mouth: 'cigarette',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -41753,7 +41753,7 @@ export const variations = [
     eyes: 'zombie',
     'gurl hair': 'karen',
     mouth: 'pipe',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -41932,7 +41932,7 @@ export const variations = [
     facial: 'white beard',
     head: 'mushroom',
     mouth: 'bucky',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -42051,7 +42051,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -42178,7 +42178,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -42253,7 +42253,7 @@ export const variations = [
     eyes: 'tint',
     'gurl hair': 'none',
     mouth: 'pepe swag',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -42267,7 +42267,7 @@ export const variations = [
     helmet: 'none',
     mask: 'slerf',
     mouth: 'vampire',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -42394,7 +42394,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wizard',
     mouth: 'gold grill',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -42419,7 +42419,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'viking helmet',
     mouth: 'bucky',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -42639,7 +42639,7 @@ export const variations = [
     eyes: 'wide open',
     'gurl hair': 'queue',
     mouth: 'mummy',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -42664,7 +42664,7 @@ export const variations = [
     eyes: 'tint',
     'gurl hair': 'pigtails black',
     mouth: 'pepe swag',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -42740,7 +42740,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk red',
     mouth: 'mega drool',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -42754,7 +42754,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -42826,7 +42826,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wild black',
     mouth: 'bored af',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -42878,7 +42878,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'devil horn',
     mouth: 'pepe swag',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -43087,7 +43087,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'vampire',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -43113,7 +43113,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'yelling',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -43150,7 +43150,7 @@ export const variations = [
     facial: 'black beard',
     head: 'cowboy',
     mouth: 'yelling',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -43249,7 +43249,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'purple cap',
     mouth: 'bored af',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -43396,7 +43396,7 @@ export const variations = [
     eyes: '4 eyes',
     'gurl hair': 'karen',
     mouth: 'flat',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -43422,7 +43422,7 @@ export const variations = [
     eyes: 'shy',
     head: 'black side',
     mouth: 'flat',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -43449,7 +43449,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -43565,7 +43565,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -43579,7 +43579,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -43620,7 +43620,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -43737,7 +43737,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -43921,7 +43921,7 @@ export const variations = [
     facial: 'white beard',
     head: 'saiyan',
     mouth: 'yelling',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -44024,7 +44024,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'headphone white',
     mouth: 'rock teeth',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -44075,7 +44075,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tongue',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -44152,7 +44152,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'purple cap',
     mouth: 'smile',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -44203,7 +44203,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'arabic headband',
     mouth: 'pipe',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -44354,7 +44354,7 @@ export const variations = [
     eyes: 'night vision',
     'gurl hair': 'pigtails pink',
     mouth: 'wired',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -44406,7 +44406,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'pipe',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -44584,7 +44584,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -44661,7 +44661,7 @@ export const variations = [
     facial: 'white beard',
     head: 'vampire',
     mouth: 'cigarette',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -44711,7 +44711,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'doodles hair',
     mouth: 'flat',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -45145,7 +45145,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk black',
     mouth: 'smile',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -45209,7 +45209,7 @@ export const variations = [
     eyes: 'eye patch',
     'gurl hair': 'pigtails pink',
     mouth: 'rock teeth',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -45473,7 +45473,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'none',
     mouth: 'yelling',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -45668,7 +45668,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'orange side',
     mouth: 'flat',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -45759,7 +45759,7 @@ export const variations = [
     facial: 'black beard',
     head: 'arrow',
     mouth: 'tongue',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -45784,7 +45784,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'pink tail',
     mouth: 'pipe',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -45798,7 +45798,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -46131,7 +46131,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wild black',
     mouth: 'vampire',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -46310,7 +46310,7 @@ export const variations = [
     facial: 'black beard',
     head: 'wild red',
     mouth: 'pipe',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -46358,7 +46358,7 @@ export const variations = [
     eyes: 'btc',
     'gurl hair': 'none',
     mouth: 'bored af',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -46370,7 +46370,7 @@ export const variations = [
     eyes: 'green laser',
     head: 'orange side',
     mouth: 'gold grill',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -46395,7 +46395,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'red _mound',
     mouth: 'flat',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -46645,7 +46645,7 @@ export const variations = [
     eyes: 'red lens',
     'gurl hair': 'pink tail',
     mouth: 'cigarette',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -46695,7 +46695,7 @@ export const variations = [
     facial: 'black beard',
     head: 'head band',
     mouth: 'smile',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -46734,7 +46734,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -46748,7 +46748,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -46888,7 +46888,7 @@ export const variations = [
     helmet: 'frog',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -46937,7 +46937,7 @@ export const variations = [
     facial: 'none',
     head: 'jim',
     mouth: 'yelling',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -47092,7 +47092,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'zigzag',
     mouth: 'flat',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -47134,7 +47134,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -47173,7 +47173,7 @@ export const variations = [
     facial: 'black beard',
     head: 'zuck hair',
     mouth: 'zigzag',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -47276,7 +47276,7 @@ export const variations = [
     facial: 'black beard',
     head: 'bell',
     mouth: 'pipe',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -47342,7 +47342,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'wired',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -47429,7 +47429,7 @@ export const variations = [
     facial: 'white beard',
     head: 'devil horn',
     mouth: 'tongue',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -47491,7 +47491,7 @@ export const variations = [
     facial: 'black beard',
     head: 'wire',
     mouth: 'mega drool',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -47568,7 +47568,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'fast food',
     mouth: 'flat',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -47620,7 +47620,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'tiny black lips',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -47724,7 +47724,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'zigzag',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -47880,7 +47880,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'saiyan',
     mouth: 'saw',
-    phrases: 'we are \u0003so f*cking \u0003back!',
+    phrases: 'we are so f cking back!',
     texture: 'distord',
   },
   {
@@ -48032,7 +48032,7 @@ export const variations = [
     eyes: 'shy',
     'gurl hair': 'none',
     mouth: 'angry',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -48059,7 +48059,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -48447,7 +48447,7 @@ export const variations = [
     eyes: 'moved',
     'gurl hair': 'pink tail',
     mouth: 'lol',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -48744,7 +48744,7 @@ export const variations = [
     facial: 'black beard',
     head: 'blue ocean',
     mouth: 'tiny black lips',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -48834,7 +48834,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -48936,7 +48936,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'flat',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -49068,7 +49068,7 @@ export const variations = [
     helmet: 'none',
     mask: 'vendettord',
     mouth: 'gold grill',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -49486,7 +49486,7 @@ export const variations = [
     facial: 'black beard',
     head: 'coffee',
     mouth: 'gold grill',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -49630,7 +49630,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'builder',
     mouth: 'vampire',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -49657,7 +49657,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'fedora',
     mouth: 'tongue',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -49821,7 +49821,7 @@ export const variations = [
     facial: 'black beard',
     head: 'short cut',
     mouth: 'saw',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -49884,7 +49884,7 @@ export const variations = [
     facial: 'white beard',
     head: 'zuck hair',
     mouth: 'flat',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -50245,7 +50245,7 @@ export const variations = [
     eyes: 'rage',
     'gurl hair': 'pigtails pink',
     mouth: 'flat',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -50389,7 +50389,7 @@ export const variations = [
     facial: 'black beard',
     head: 'police',
     mouth: 'teeth',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -50441,7 +50441,7 @@ export const variations = [
     eyes: 'rage',
     'gurl hair': 'pink tail',
     mouth: 'tiny black lips',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -50629,7 +50629,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'bucky',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -50665,7 +50665,7 @@ export const variations = [
     head: 'knitted cap',
     mask: 'none',
     mouth: 'skull',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     special: 'skeleton',
     texture: 'distord',
   },
@@ -50779,7 +50779,7 @@ export const variations = [
     facial: 'white beard',
     head: 'egg head',
     mouth: 'angry',
-    phrases: 'dollar \u0003is tha real \u0003shitcoin',
+    phrases: 'dollar is tha real shitcoin',
     texture: 'distord',
   },
   {
@@ -50805,7 +50805,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'pilot',
     mouth: 'pepe swag',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -50997,7 +50997,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'drool',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -51047,7 +51047,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'builder',
     mouth: 'smile',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -51202,7 +51202,7 @@ export const variations = [
     eyes: 'vr',
     'gurl hair': 'none',
     mouth: 'smile',
-    phrases: 'politicians shuld be paid \rin shitcoins\u0003',
+    phrases: 'politicians shuld be paid in shitcoins',
     texture: 'distord',
   },
   {
@@ -51294,7 +51294,7 @@ export const variations = [
     helmet: 'pinapple',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'oh baby,\ri’m about\rto rune!',
+    phrases: 'oh baby, i’m about to rune!',
     texture: 'distord',
   },
   {
@@ -51483,7 +51483,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'smile',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -51509,7 +51509,7 @@ export const variations = [
     facial: 'black beard',
     head: 'cowboy',
     mouth: 'tiny black lips',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -51534,7 +51534,7 @@ export const variations = [
     facial: 'white beard',
     head: 'wizard',
     mouth: 'mega drool',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -51648,7 +51648,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'saw',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -51776,7 +51776,7 @@ export const variations = [
     eyes: 'shy',
     'gurl hair': 'karen',
     mouth: 'cigarette',
-    phrases: 'we are\u0003 so f*cking \u0003done!!',
+    phrases: 'we are so f cking done!!',
     texture: 'distord',
   },
   {
@@ -51828,7 +51828,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'headphone white',
     mouth: 'flat',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -51916,7 +51916,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'vegapunk',
     mouth: 'lol',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -52036,7 +52036,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'teeth',
-    phrases: 'not even \rtryin 2 \u0003mek it!',
+    phrases: 'not even tryin 2 mek it!',
     texture: 'distord',
   },
   {
@@ -52101,7 +52101,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'u dont \u0003drool \u0003enuf!',
+    phrases: 'u dont drool enuf!',
     texture: 'distord',
   },
   {
@@ -52868,7 +52868,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'top hat',
     mouth: 'drool',
-    phrases: 'it’s all going\rto zero!',
+    phrases: 'its all going to zero!',
     texture: 'distord',
   },
   {
@@ -52996,7 +52996,7 @@ export const variations = [
     eyes: 'tint',
     head: 'orange side',
     mouth: 'pipe',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -53072,7 +53072,7 @@ export const variations = [
     eyes: 'peaceful',
     'gurl hair': 'karen',
     mouth: 'teeth',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -53150,7 +53150,7 @@ export const variations = [
     facial: 'top g beard',
     head: 'cex',
     mouth: 'flat',
-    phrases: 'bitcoin\u0003 gud!!',
+    phrases: 'bitcoin gud!!',
     texture: 'distord',
   },
   {
@@ -53176,7 +53176,7 @@ export const variations = [
     facial: 'white beard',
     head: 'top hat',
     mouth: 'tongue',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -53290,7 +53290,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'angry',
-    phrases: 'expect \u0003nothing \u0003but memes',
+    phrases: 'expect nothing but memes',
     texture: 'distord',
   },
   {
@@ -53525,7 +53525,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'lol',
-    phrases: 'chose \u0003rich but still poor',
+    phrases: 'chose rich but still poor',
     texture: 'distord',
   },
   {
@@ -53563,7 +53563,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'head band',
     mouth: 'yelling',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -53731,7 +53731,7 @@ export const variations = [
     facial: 'black beard',
     head: 'vampire',
     mouth: 'yelling',
-    phrases: 'if u cant \u0003hodl u \u0003cant rich!',
+    phrases: 'if u cant hodl u cant rich!',
     texture: 'distord',
   },
   {
@@ -53807,7 +53807,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'mohawk black',
     mouth: 'zigzag',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -53908,7 +53908,7 @@ export const variations = [
     helmet: 'none',
     mask: 'none',
     mouth: 'cigarette',
-    phrases: 'ordinals\u0003 mfers are \u0003retorded',
+    phrases: 'ordinals mfers are retorded',
     texture: 'distord',
   },
   {
@@ -53960,7 +53960,7 @@ export const variations = [
     facial: 'black beard',
     head: 'cowboy',
     mouth: 'tiny black lips',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -54062,7 +54062,7 @@ export const variations = [
     facial: 'fine beard',
     head: 'wire',
     mouth: 'lol',
-    phrases: 'memes gud \rutility bad!',
+    phrases: 'memes gud utility bad!',
     texture: 'distord',
   },
   {
@@ -54128,7 +54128,7 @@ export const variations = [
     facial: 'black beard',
     head: 'fast food',
     mouth: 'tongue',
-    phrases: 'wer all gonna\u0003 mek it!',
+    phrases: 'wer all gonna mek it!',
     texture: 'distord',
   },
   {
@@ -54688,7 +54688,7 @@ export const traits = {
     rec: 'c39fdb12c73f685e295f234e7664827fd1b00355267eaccd75d9ca8844632e30i4',
     'green laser': 'a6a3f24cef6d0938fc8dc4e4f6070a46e91239f98e4ae0f0a1fc70f65269a896i37',
     'bored af': 'a6a3f24cef6d0938fc8dc4e4f6070a46e91239f98e4ae0f0a1fc70f65269a896i33',
-    'm frame': 'a6a3f24cef6d0938fc8dc4e4f6070a46e91239f98e4ae0f0a1fc70f65269a896i39',
+    'm frames': 'a6a3f24cef6d0938fc8dc4e4f6070a46e91239f98e4ae0f0a1fc70f65269a896i39',
     btc: 'a6a3f24cef6d0938fc8dc4e4f6070a46e91239f98e4ae0f0a1fc70f65269a896i34',
     peaceful: 'c39fdb12c73f685e295f234e7664827fd1b00355267eaccd75d9ca8844632e30i2',
     noun: 'c39fdb12c73f685e295f234e7664827fd1b00355267eaccd75d9ca8844632e30i1',
@@ -54841,25 +54841,25 @@ export const traits = {
   phrases: {
     '69': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai61',
     w: '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai10',
-    'real tords --dont fud other--tords bags!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai1',
-    'leonidas --is rune---torded!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei9',
+    'real tords dont fud other ords bags!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai1',
+    'leonidas is rune torded!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei9',
     'pic of privut key in phone!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei22',
     gm: 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei3',
     'babies drain wallets': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai66',
-    'memes gud --utility bad!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei14',
-    'ordinals- mfers are -retorded': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei21',
+    'memes gud utility bad!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei14',
+    'ordinals mfers are retorded': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei21',
     'live fast drool hard!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei11',
-    'expect -nothing -but memes': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei1',
+    'expect nothing but memes': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei1',
     '69 tordillion': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai62',
     'retordinals are forever!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai2',
     "help, i've been runed!": 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei4',
     'utiluty = stay poor': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai9',
-    'wen airdrop-': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai13',
+    'wen airdrop?': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai13',
     'rune me baby one more time!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai3',
     'like, rt and send soldanos!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei10',
-    'only fans- at- 1k likes!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei20',
-    'dollar -is tha real -shitcoin': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai70',
-    'oh baby,--i’m about--to rune!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei18',
+    'only fans at 1k likes!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei20',
+    'dollar is tha real shitcoin': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai70',
+    'oh baby, i’m about to rune!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei18',
     'tords gunna -tord': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai7',
     'btc- to a milli bt eoy': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai68',
     'all pfp’s shuld be feet pix!': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai64',
@@ -54867,27 +54867,27 @@ export const traits = {
     'new world torder': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei15',
     'all retords go to heben': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai65',
     'not ur keys, not ur house!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei17',
-    'wer all gonna- mek it!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai14',
-    'u dont -drool -enuf!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai8',
+    'wer all gonna mek it!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai14',
+    'u dont drool enuf!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai8',
     'memes are life': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei13',
     'here for the art': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei5',
-    'chose -rich but still poor': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai69',
+    'chose rich but still poor': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai69',
     'mek drool not war!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei12',
-    'we are -so f-cking -back!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai11',
+    'we are so f cking back!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai11',
     'tek profit 4 drugs!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai6',
-    'not even --tryin 2 -mek it!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei16',
+    'not even tryin 2 mek it!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei16',
     'oh fuck': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei19',
     l: 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei8',
-    'politicians shuld be paid --in shitcoins-': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai0',
+    'politicians shuld be paid in shitcoins': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai0',
     'airdrops gud!': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai63',
-    'if u cant -hodl u -cant rich!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei6',
+    'if u cant hodl u cant rich!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei6',
     '2 slow 2 fomo': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai60',
     'rune me baby!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai4',
     'secretly smart af': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai5',
     'eferium nft appocalips!': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai71',
-    'it’s all going--to zero!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei7',
-    'we are- so f-cking -done!!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai12',
-    'bitcoin- gud!!': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai67',
+    'its all going to zero!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei7',
+    'we are so f cking done!!': '577b240ca3beb1b59f759da4f344b0c5ce148ec076ecbebca3921ce670be4e7ai12',
+    'bitcoin gud!!': '2a1819ec624c63097185d28c30fc83460a31549e5b56b79d91023f206cef413ai67',
     'elon is the antitord!': 'd2d63dc9f5b4706ae5feed74d07a72683e88461c9a72b7b4f8eae617f74856cei0',
   },
   'right hand': {
